@@ -8,4 +8,4 @@ group by department_id, department_name
 
 having count(employee_id) < 3
 
-order by department_id;
+order by department_id

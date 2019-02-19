@@ -12,4 +12,4 @@ using (department_id) where job_id <> 'SA_REP'
 
 )
 
-order by department_id;
+order by department_id
